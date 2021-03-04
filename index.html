@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <form>
+            <input type="text" value="hoge" name="foo"></input>
+            <br/>
+            <input type="submit" value="送信"/>
+        </form>
+        <div my:loop="elem : mylist">
+            <p>これはテストです。</p>
+        </div>
+        <div><!--開始タグのみでもエラーにならない-->
+        <br/>
+        <div my:text="1 + 2 * 3 / {hoge}">
+
+        </div>
+    </body>
+</html>
