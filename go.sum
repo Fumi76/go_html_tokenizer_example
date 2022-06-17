@@ -1,3 +1,6 @@
+github.com/d5/tengo v1.24.8 h1:PRJ+NWt7ae/9sSbIfThOBTkPSvNV+dwYoBAvwfNgNJY=
+github.com/d5/tengo/v2 v2.7.0 h1:oAGQ+gcas0/T0bdqvNxfKzjOJhpQRwceWIF5gldB3aM=
+github.com/d5/tengo/v2 v2.7.0/go.mod h1:XRGjEs5I9jYIKTxly6HCF8oiiilk5E/RYXOZ5b0DZC8=
 golang.org/x/net v0.0.0-20210226172049-e18ecbb05110 h1:qWPm9rbaAMKs8Bq/9LRpbMqxWRVUAQwMI9fVrssnTfw=
 golang.org/x/net v0.0.0-20210226172049-e18ecbb05110/go.mod h1:m0MpNAwzfU5UDzcl9v0D8zg8gWTRqZa9RBIspLL5mdg=
 golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
